@@ -7,10 +7,11 @@ public class DfsAlgo {
         //marking current node as visited
         vis[node] = true;
         ls.add(node);
-
+        System.out.println(node);
         //getting neighbour nodes
         for (Integer i : adj.get(node)) {
             if(!vis[i]) {
+                System.out.println(i);
                 dfs(i, vis, adj, ls);
             }
         }
