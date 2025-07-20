@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c307979-225b-432d-9f0c-273d933ed1df" name="Changes" comment="DFS algo">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs/src/NumOfProvince.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/src/DfsAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/src/DfsAlgo.java" afterDir="false" />
+    <list default="true" id="4c307979-225b-432d-9f0c-273d933ed1df" name="Changes" comment="No Of provinces using DFS algo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/src/NumOfProvince.java" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/src/NumOfProvince.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graphs/NumOfProvince.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/graphs/NumOfProvince.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,7 @@
     "Application.Bfs.executor": "Run",
     "Application.DfsAlgo.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.NumOfProvince.executor": "Run",
     "Application.Solution.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -131,12 +132,29 @@
       <option name="project" value="LOCAL" />
       <updated>1753002026802</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="No Of provinces using DFS algo">
+      <option name="closed" value="true" />
+      <created>1753004989688</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753004989688</updated>
+    </task>
+    <task id="LOCAL-00004" summary="No Of provinces using DFS algo">
+      <option name="closed" value="true" />
+      <created>1753005072951</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753005072951</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Bfs algo" />
     <MESSAGE value="DFS algo" />
-    <option name="LAST_COMMIT_MESSAGE" value="DFS algo" />
+    <MESSAGE value="No Of provinces using DFS algo" />
+    <option name="LAST_COMMIT_MESSAGE" value="No Of provinces using DFS algo" />
   </component>
 </project>
