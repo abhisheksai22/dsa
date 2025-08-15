@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c307979-225b-432d-9f0c-273d933ed1df" name="Changes" comment="No Of provinces using DFS algo">
+      <change afterPath="$PROJECT_DIR$/arrays/arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/src/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/src/BalancedParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/src/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/src/FactorialOfN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/src/KadaneAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/src/RemoveDuplicatesInSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview/interview.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/src/NumOfProvince.java" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/src/NumOfProvince.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/graphs/NumOfProvince.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/graphs/NumOfProvince.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,21 +32,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "abhisheksai22"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;abhisheksai22&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/abhisheksai22/dsa.git",
-    "accountId": "21e00348-68e4-4c86-9a19-902b6e0b30e4"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/abhisheksai22/dsa.git&quot;,
+    &quot;accountId&quot;: &quot;21e00348-68e4-4c86-9a19-902b6e0b30e4&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="307mFoaemLc1FXLMPyqQ3LjlqhS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,63 +55,71 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.BalancedParenthesis.executor": "Run",
     "Application.Bfs.executor": "Run",
     "Application.DfsAlgo.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.FactorialOfN.executor": "Run",
+    "Application.KadaneAlgo.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.NearestPalindrome.executor": "Run",
     "Application.NumOfProvince.executor": "Run",
+    "Application.RemoveDuplicatesInSortedArray.executor": "Run",
+    "Application.ReverseLinkedList.executor": "Run",
     "Application.Solution.executor": "Run",
+    "Application.TwoSum.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/abhis/OneDrive/Desktop/Dsa/dsa",
-    "onboarding.tips.debug.path": "C:/Users/abhis/OneDrive/Desktop/Dsa/dsa/graphs/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/abhis/OneDrive/Desktop/Dsa/dsa/arrays/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NumOfProvince">
-    <configuration name="Bfs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bfs" />
+  <component name="RunManager" selected="Application.TwoSum">
+    <configuration name="BalancedParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BalancedParenthesis" />
       <module name="graphs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DfsAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DfsAlgo" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factorial" />
       <module name="graphs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="FactorialOfN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactorialOfN" />
       <module name="graphs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumOfProvince" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumOfProvince" />
+    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseLinkedList" />
       <module name="graphs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="graphs" />
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoSum" />
+      <module name="arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumOfProvince" />
-        <item itemvalue="Application.DfsAlgo" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Bfs" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.BalancedParenthesis" />
+        <item itemvalue="Application.FactorialOfN" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.ReverseLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753005072951</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="No Of provinces using DFS algo">
+      <option name="closed" value="true" />
+      <created>1753006453209</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1753006453209</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -156,5 +179,21 @@
     <MESSAGE value="DFS algo" />
     <MESSAGE value="No Of provinces using DFS algo" />
     <option name="LAST_COMMIT_MESSAGE" value="No Of provinces using DFS algo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/interview/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/arrays/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
